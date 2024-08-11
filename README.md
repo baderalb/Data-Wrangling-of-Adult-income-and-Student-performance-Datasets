@@ -1,1 +1,2 @@
-"# Data-Wrangling-of-Adult-income-and-Student-performance-Datasets" 
+This project involves comprehensive data wrangling on two distinct datasets: the Adult Income dataset and the Student Performance dataset. The goal was to clean, process, and prepare these datasets for detailed analysis, focusing on examining various factors that influence income levels among adults and academic performance among students.
+To achieve this, I utilized Python libraries like pandas and NumPy
